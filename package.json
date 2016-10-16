@@ -1,0 +1,30 @@
+{
+    "author": "michaelsapra@hotmail.com",
+    "dependencies": {
+        "mqtt": "^2.0.1"
+    },
+    "keywords": [],
+    "name": "gtfo",
+    "pebble": {
+        "displayName": "gtfo",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "active": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "34b52074-c2a6-4f57-ad53-9d805536492c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
